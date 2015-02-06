@@ -1,4 +1,4 @@
-package org.craftedsw.tripservicekata.exception;
+package com.samsung.training.tdd.tripservicekata.exception;
 
 public class CollaboratorCallException extends RuntimeException {
 

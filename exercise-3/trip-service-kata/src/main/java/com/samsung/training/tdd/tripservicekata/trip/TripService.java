@@ -1,11 +1,11 @@
-package org.craftedsw.tripservicekata.trip;
+package com.samsung.training.tdd.tripservicekata.trip;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import org.craftedsw.tripservicekata.exception.UserNotLoggedInException;
-import org.craftedsw.tripservicekata.user.User;
-import org.craftedsw.tripservicekata.user.UserSession;
+import com.samsung.training.tdd.tripservicekata.exception.UserNotLoggedInException;
+import com.samsung.training.tdd.tripservicekata.user.User;
+import com.samsung.training.tdd.tripservicekata.user.UserSession;
 
 public class TripService {
 

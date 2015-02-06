@@ -1,9 +1,9 @@
-package org.craftedsw.tripservicekata.user;
+package com.samsung.training.tdd.tripservicekata.user;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import org.craftedsw.tripservicekata.trip.Trip;
+import com.samsung.training.tdd.tripservicekata.trip.Trip;
 
 public class User {
 

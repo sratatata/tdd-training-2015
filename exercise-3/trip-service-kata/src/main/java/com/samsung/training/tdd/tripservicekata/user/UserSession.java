@@ -1,6 +1,6 @@
-package org.craftedsw.tripservicekata.user;
+package com.samsung.training.tdd.tripservicekata.user;
 
-import org.craftedsw.tripservicekata.exception.CollaboratorCallException;
+import com.samsung.training.tdd.tripservicekata.exception.CollaboratorCallException;
 
 public class UserSession {
 
