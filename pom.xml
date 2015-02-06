@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>roman-converter</module>
+        <module>exercise-1/roman-converter</module>
     </modules>
 
     <properties>
