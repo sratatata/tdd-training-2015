@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
-
+         <module>exercise-2/bank-kata</module>
     </modules>
 
     <properties>
