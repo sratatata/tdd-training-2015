@@ -11,6 +11,7 @@
 
     <modules>
         <module>exercise-1/roman-converter</module>
+        <module>exercise-2/bank-kata</module>
     </modules>
 
     <properties>
