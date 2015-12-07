@@ -10,7 +10,9 @@
     <packaging>pom</packaging>
 
     <modules>
-
+        <module>exercise-1/roman-converter</module>
+        <module>exercise-2/bank-kata</module>
+	    <module>exercise-3/trip-service-kata</module>
     </modules>
 
     <properties>
